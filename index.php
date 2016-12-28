@@ -59,8 +59,23 @@
           </div>
           <div class="col-md-7">
             <div class="description">
-              <p class="subtitle"> <span class="vc_inverted"> Our team members </span>and partners </p>
-              <p class="text">  are a highly result oriented hands on experts with significant experience in creating, building, sourcing, merging, and integrating global operations for the midsize companies, start-ups and incubators. The team members have lived and worked in multiple regions in the world including US, China, India, Mexico, Malaysia, Vietnam, Singapore, and the Middle East.  </p>
+              <p class="subtitle"> <span class="vc_inverted"> Our Executive Team </span>and Affiliates </p>
+              <p class="text"><strong>Our Executive Team</strong> has broad experience in Engineering, Sales, Marketing, Manufacturing, Commercial Operations, Supply Chain, and Business Process Management for start-up, small, medium, and large companies in North America, CALA, the EU, MEA, and Asia. We specialize in developing and implementing strategically linked operating initiatives.</p>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 col-md-4">
+                <ul style="margin-left: 30%; text-align: left">
+                  <li>Experienced</li>
+                  <li>Talented</li>
+                  <li>Global Insight</li>
+                  <li>Diverse Backgrounds</li>
+                  <li>Savvy</li>
+                </ul>
+              </div>
+              <div class="col-sm-12 col-md-8">
+                <p class="text">Each member of the management team brings complementary strengths to 4GM Capital, creating a core group of expertise and ability that most organizations seek to obtain. Working together around the world and in diverse business settings has allowed the team to learn what actions and decisions create successful businesses. Let us put those valuable experiences to work for you!
+                </p>
+              </div>
             </div>
           </div>
           <div class="col-md-3">
