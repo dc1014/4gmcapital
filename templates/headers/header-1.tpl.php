@@ -25,7 +25,7 @@
       </div>
     </div>
     </div>
-    <div class="vc_secondary-menu-wrapper">
+<!--     <div class="vc_secondary-menu-wrapper">
     	<div class="container"><div class="row">
               <div class="vc_secondary-menu">
                 <div class="vc_contact-top-wrapper col-xs-12 col-sm-7 col-md-8 col-lg-9">
@@ -46,9 +46,9 @@
                 </div>
               </div> 
 		      <div class="vc_sub-menu-bg"><div class="element-1"></div><div class="element-2"></div></div>              
-        </div></div>  
+        </div></div>   -->
         <!-- container row --> 
-    </div>
+    <!-- </div> -->
     <div class="vc_menu-bg"><div class="element-1"></div><div class="element-2"></div></div>
   </header>
   <!-- Header Ends --> 
