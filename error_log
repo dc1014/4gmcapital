@@ -1,0 +1,1 @@
+[18-Mar-2016 04:28:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/pdo_mysql.so' - libmysqlclient.so.18: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
