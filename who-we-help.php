@@ -20,7 +20,6 @@
         <h1>Who Can Use <span class="vc_main-color">Our Services</span></h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> </li>
-          <li><a href="#">Services & Solutions</a> </li>          
           <li class="active">Who Can Use Our Services</li>
         </ul>
       </div>
@@ -62,6 +61,8 @@
          <div class="col-md-12">
            <h2>Partial <span class="vc_main-color">Client </span>and <span class="vc_main-color">Partner </span>Listing</h2><br>
            <ul class="vc_li">
+              <li> Edlane </li>
+              <li> JMC Capital Partners </li>
               <li> Alpha - US</li>
               <li> EPRI - US</li>              
               <li> Tyco Electric - India & Mexico</li>
@@ -84,7 +85,7 @@
               <li> Comintel (BCM) - Malaysia</li>
               <li> Totus LED Lighting - US</li>
             </ul>
-            </div>
+          </div>
         <!-- block -->
         
         </div>

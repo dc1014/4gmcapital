@@ -4,7 +4,7 @@
   </li>
   <li id="about"> <a href="about.php"> About Us <i class="fa fa-caret-down"> </i> </a>    
   </li>
-  <li id="services"> <a href="sourcing-rightshoring.php"> Services & Solutions <i class="fa fa-caret-down"> </i> </a> 
+  <li id="services"> <a href="services.php"> Services & Solutions <i class="fa fa-caret-down"> </i> </a> 
   <div class="vc_menu-open-right vc_menu-2-v">
       <ul class="clearfix">
         <li> <a href="sourcing-rightshoring.php"> Sourcing & Rightshoring </a> </li>
