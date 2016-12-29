@@ -48,10 +48,39 @@
     <div class="container">
       <div class="row"> 
           <div class="col-md-12"> 
-          <img alt="example image" class="vc_right"  src="img/about/logo-about.png">
-            <h3>Profile</h3>
-            <p> The 4GM Capital Group (Previously SM and T Group) started in 2001. Our team are highly accomplished hands on experts with significant experience in creating, integrating, merging and building global operations for the midsize companies, start-ups and incubators. The team members have lived and worked in multiple regions in the world including US, China, India, Mexico, Malaysia, Vietnam, Singapore, and the Middle East. </p>
-      		<div class="vc_separator"> </div><br>
+            <img alt="example image" class="vc_right"  src="img/about/logo-about.png">
+              <h3>Who We Are</h3>
+              <p>A highly qualified and experienced team that stands ready to help deliver your company's growth objectives. The principles have over 100 years of combined Engineering, Operations, Sales, Marketing, and Product Management experience in start-ups and large corporations alike, and have worked with prestigious Universities to strengthen corporate/academic partnerships</p>
+          </div>
+          <div class="vc_separator"> </div><br>
+          <div class="col-md-12">
+            <h3>What We Do</h3>
+            <p>Provide Growth Management support for businesses that provide technology-based goods and services. We focus on key business processes that underpin both organic and inorganic growth initiatives.<br><br>We apply these principles to both native organic growth and external inorganic growth initiatives. Key components of due diligence and post-acquisition integration are understanding and implementing the right business processes.</p>          
+          </div>
+          <div class="vc_separator"> </div><br>
+          <div class="col-md-12">
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Our Approach</h3>
+                <p>We believe that the secret to high performance organizations is linkage among functional activities. We also believe that cross-functional linkage and the resulting high performance is science, not art, and can be implemented successfully anywhere by anyone. It's easy to overspend on top talent and create silos of functional excellence. It's much harder to tie day-to-day activities together so that all employees are operating collaboratively. We focus on defining and implementing those key business processes that must seamlessly cross over functional boundaries and help you structure those processes so that your people naturally collaborate and make good business growth decisions.</p>
+              </div>
+              <div class="col-md-6">
+                <h3>Specializations</h3>
+                <ul class="vc_li">
+                  <li>Lifecycle Management</li>
+                  <li>New Production Introduction</li>
+                  <li>Sales and Inventory Planning</li>
+                  <li>Product & Technology Roadmap</li>
+                  <li>Strategic Account Planning</li>
+                  <li>Go-to-Market</li>
+                  <li>Manufacturing & Supply Chain</li>
+                  <li>Strategic Business Planning</li>
+                  <li>Return, Service, & Repair</li>
+                </ul>
+              </div>
+            </div>          
+          </div>
+          <div class="vc_separator"> </div><br>
             <div class="col-md-6">
             <h3>Core Competencies</h3>
             <ul class="vc_li">
@@ -83,8 +112,6 @@
       <!-- .row -->
       <div class="vc_separator"> </div>
     </div>
-    <!-- .container --> 
-  </div>
   <!-- .vc_history -->
   <div class="vc_team-expertise block">
     <div class="wrapper">
@@ -110,11 +137,11 @@
               <article class="blog-row clearfix">
                 <div class="blog-right clearfix">
                   <div class="information vc_row">
-                    <h4> Anita Jonooby </h4>
+                    <h4> Alfonso Cioffi </h4>
                     <span class="position vc_inverted">Senior Partner</span> </div>
-                  <div class="vc_address vc_row">                    
+<!--                   <div class="vc_address vc_row">                    
                     <div class="col-md-6"><a href="http://www.gdair.com/AboutUs_TheTeam.html"><i class="fa fa-info-circle"></i>www.gdair.com</a></div>
-                  </div>
+                  </div> -->
                   <div class="description vc_row">
                     <p> </p>
                   </div>
