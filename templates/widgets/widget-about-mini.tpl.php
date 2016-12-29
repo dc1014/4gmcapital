@@ -13,12 +13,21 @@
               </address></td>
           </tr>
           <tr>
+          </tr>
+          <tr>
+            <td class="icon"><i class="fa fa-envelope"> </i></td>
+            <td> <a href="mailto:al@4gmcapital.com">al@4gmcapital.com</a> </td>
+            <td class="icon"><i class="fa fa-envelope"> </i></td>
+            <td> <a href="mailto:moe@4gmcapital.com">moe@4gmcapital.com</a> </td>
+          </tr>
+          <br>
+          <tr>
+            <td class="icon"><i class="fa fa-phone"> </i></td>
+            <td> (214) 334-5774 </td>
             <td class="icon"><i class="fa fa-phone"> </i></td>
             <td> (214) 621-6762 </td>
           </tr>
           <tr>
-            <td class="icon"><i class="fa fa-envelope"> </i></td>
-            <td> moe@4gmcapital.com </td>
           </tr>
         </tbody>
       </table>
