@@ -117,9 +117,8 @@
                   <div class="content">
                     <ul class="vc_li">
 
-                      <li>651 N. Plano Rd. <br>
-                        Suite 429 <br>                        
-                        Richardson, TX 75081</li>
+                      <li>2801 Technology Dr. <br>
+                        Plano, TX 75074</li>
                     </ul>
                   </div>
                 </div>

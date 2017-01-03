@@ -7,9 +7,8 @@
           <tr>
             <td class="icon"><i class="fa fa-map-marker"> </i></td>
             <td><address>
-              651 N. Plano Rd.<br />
-			  Suite 429<br />
-			  Richardson, TX 75081<br />
+              2801 Technology Dr.<br />
+      			  Plano, TX 75074<br />
               </address></td>
           </tr>
           <tr>

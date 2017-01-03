@@ -3,12 +3,12 @@
 $(document).ready(function() { 
 	$('#map-small').gMap({
 		
-		 address: '651 N. Plano Rd. Suite 429, Richardson, Texas, 75081',
+		 address: '2801 Technology Dr., Plano, Texas, 75074',
 		 maptype: 'ROADMAP',
 		 zoom: 14,
 		 markers: [
 			{
-				address: "651 N. Plano Rd. Suite 429, Richardson, Texas, 75081",
+				address: "2801 Technology Dr., Plano, Texas, 75074",
 				
 				icon: {
 					image: "img/blue.png",
