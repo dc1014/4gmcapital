@@ -119,20 +119,47 @@
                     <h4> Moe G. Maghami </h4>
                     <span class="position vc_inverted">Managing Partner</span> </div>                  
                   <div class="description vc_row">
-                    <p> Moe Maghami has worked in multiple disciplines for small and large companies as well as a couple of start-ups while living in US, Mexico, China and India. He is very familiar with Business Practices in global regions and has assembled a handful of dedicated, resourceful, hard working individuals that possess the highest level of integrity. Moe's Education: BS/MS Degrees in Engineering. Executive MBA – SMU Cox School of Business. Strategy & Leadership in Supply Chain/Operations – Stanford Graduate Business School.  </p>
+                    <p> Mr. Maghami, Managing Partner at 4GM Capital, is a 25+ year technology/operations veteran holding numerous functional executive positions.  He is a highly accomplished hands-on leader with significant experience creating, integrating, merging and building global operations, supply chain & businesses for startups, small, and large entities.  His track record in multiple business turn arounds is exemplary.  His broad cross-functional and cultural experience in both domestic and international markets include specific skills in the following:  </p>
+                    <ul  class="vc_li">
+                      <li>Assembling, motivating and leading high performance teams</li>
+                      <li>Planning and execution of Business Operation strategies, especially in turnaround situations</li>
+                      <li>Managing Supply Chain & Manufacturing Operations</li>
+                      <li>Identifying and implementing Sourcing Strategies & Right Shoring</li>
+                      <li>Due Diligence for a variety of transactions</li>
+                      <li>Living & working in off-shore environments (Mexico, India, China)</li>
+                      <li>Global Integration & Expansion</li>
+                    </ul>
+                    <p>Mr Maghami started his career in 1985 at Bell Laboratories/AT&T Technologies, at the time the world’s leading Supplier of power epitaxial technology (silicon power semiconductors), where progressed through the ranks to become head of the business unit.  In 1993 he became General Manager of a $120M power electronics factory with 2,000+ employees in Mexico, and leader of a 33-person power system product development team with 110 projects.  Given his Entrepreneurial spirit, in 2001 Mr. Maghami started his own business, leveraging his experience and global reputation to help high-tech start-ups to setup Business Management Systems, and supply chain and manufacturing infrastructure to drive new product development from conceptual design to volume production.  His first client was Structel International where he led a business process re-engineering effort for the turnkey telecom wireless tower provider.<br><br>
+                    Mr. Maghami was a key player in preparing the initial Valere Power business plan which resulted in three successful rounds of funding.  He then set up the company’s Customer Service operations in the US and Manufacturing Operations in China and India.  In 2007 Valere was acquired by Eltek where Moe was assigned to integrate the Valere China, India, and Singapore operations into Eltek’s Global infrastructure.  After completing the integration, Moe founded EnTouch Controls in 2009 (An Energy Management Company) with a number of his colleagues from Bell Labs.  After ensuring EnTouch Controls was on the path to sustained success, Moe left the Company to found 4GM Capital in 2014.<br><br>
+                    Mr. Maghami has a Master of Science degree in Chemical Engineering, with a focus on Semiconductor Processing & Fabrication, from the University of Arkansas where he graduated with honors, and an Executive MBA from the Cox School of Business at Southern Methodist University.  Since the summer of 2014, Moe has also been an active member of “Strategy/Leadership Supply Chain/Operations” Team at the Stanford University Graduate School of Business.
+                    </p>
                   </div>
                 </div>
               </article>
               <article class="blog-row clearfix">
                 <div class="blog-right clearfix">
                   <div class="information vc_row">
-                    <h4> Alfonso Cioffi </h4>
-                    <span class="position vc_inverted">Senior Partner</span> </div>
+                    <h4> Al Cioffi </h4>
+                    <span class="position vc_inverted">CTO</span> </div>
 <!--                   <div class="vc_address vc_row">                    
                     <div class="col-md-6"><a href="http://www.gdair.com/AboutUs_TheTeam.html"><i class="fa fa-info-circle"></i>www.gdair.com</a></div>
                   </div> -->
                   <div class="description vc_row">
-                    <p> </p>
+                    <p>Al Cioffi, CTO of 4GM Capital, has 36 years of management and executive leadership experience with demonstrated ability to profitably grow technology based businesses.  His broad managerial and leadership background include specific skills in the following: 
+                    </p>
+                     <ul  class="vc_li">
+                        <li>Developing and implementing strategically linked product, service, sales, and operational plans</li>
+                        <li>Developing effective customer relationships and building trust with the customer base</li>
+                        <li>Creating operating policies that drive continued growth and industry leading top-and-bottom-line results</li>
+                        <li>Building solid teamwork across functional organizations</li>
+                        <li>Creating a vision that energizes and invigorates people to excel and produce</li>
+                      </ul>
+                    <p>
+                    Mr. Cioffi started his career in 1980 at AT&T Bell Labs and developed power conversion equipment for many of AT&T’s flagship communication.  He also led the general market roll-out of AT&T’s highly successful line of high density power modules.  In 1996 he joined RELTEC Lorain Products division where he held executive positions in Engineering, Marketing, Operations, and Quality and drove the development and market promotion of numerous innovative products.  He remained through the acquisition by Marconi and was instrumental in the integration and implementation of many business processes.<br><br>
+                    In 2002 Mr. Cioffi joined Valere Power, a highly successful start-up company, and was the primary architect and executor of the strategic product portfolio and global account penetration plans.  Mr. Cioffi played a key role in the end to end sales process that standardized Valere products at every major telecom service provider in North America.  After Valere was acquired by Eltek in 2007 he led the formation of a cabinetized power solutions line of business.  Mr. Cioffi joined PECO II in 2008 and played a major role in revamping the company’s technology and product position.  He remained with the company through two acquisitions – Lineage Power acquisition of PECO II in 2010 and GE acquisition of Lineage Power in 2011.  With GE/Lineage he led the effort to drive GE innovative battery, electrical protection, alternative energy, and advanced power conversion technologies into innovative packaged power solutions for ICT applications.<br><br>
+                    In 2014 Mr. Cioffi joined Unipower as VP of Engineering and led the transformation from specialty power supplies provider to integrated DC power solutions supplier.  He worked through the integration of two strategic acquisitions and was primary architect of the product and technology roadmap.<br><br>
+                    Mr. Cioffi has published numerous articles and conference papers and holds seven patents.  He has implemented several transformative business process re-engineering projects and integrated several operations post acquisition.  He authored and received a Department of Energy grant for a photovoltaic health monitoring and management system.  He also served on a Deming prize winning quality team – the first non-Japanese manufacturing team to ever achieve this honor.  He holds a BSEE from Manhattan College, an MSEE from Polytechnic Institute of NY, and has studied business and finance at the Wharton school of business.
+                    </p>                    
                   </div>
                 </div>
               </article>
