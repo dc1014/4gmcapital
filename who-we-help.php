@@ -61,7 +61,7 @@
          <div class="col-md-12">
            <h2>Partial <span class="vc_main-color">Client </span>and <span class="vc_main-color">Partner </span>Listing</h2><br>
            <ul class="vc_li">
-              <li> Edlane </li>
+              <li> Eolane </li>
               <li> JMC Capital Partners </li>
               <li> Alpha - US</li>
               <li> EPRI - US</li>              

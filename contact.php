@@ -117,7 +117,7 @@
                   <div class="content">
                     <ul class="vc_li">
 
-                      <li>2801 Technology Dr. <br>
+                      <li>2801 Technology Dr. STE 127 <br>
                         Plano, TX 75074</li>
                     </ul>
                   </div>

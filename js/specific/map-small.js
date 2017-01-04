@@ -3,12 +3,12 @@
 $(document).ready(function() { 
 	$('#map-small').gMap({
 		
-		 address: '2801 Technology Dr., Plano, Texas, 75074',
+		 address: '2801 Technology Dr. STE 127, Plano, Texas, 75074',
 		 maptype: 'ROADMAP',
 		 zoom: 14,
 		 markers: [
 			{
-				address: "2801 Technology Dr., Plano, Texas, 75074",
+				address: "2801 Technology Dr. STE 127, Plano, Texas, 75074",
 				
 				icon: {
 					image: "img/blue.png",

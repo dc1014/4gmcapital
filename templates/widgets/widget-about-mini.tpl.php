@@ -7,7 +7,7 @@
           <tr>
             <td class="icon"><i class="fa fa-map-marker"> </i></td>
             <td><address>
-              2801 Technology Dr.<br />
+              2801 Technology Dr. STE 127<br />
       			  Plano, TX 75074<br />
               </address></td>
           </tr>
