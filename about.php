@@ -61,22 +61,11 @@
           <div class="col-md-12">
             <div class="row">
               <div class="col-md-6">
-                <h3>Our Approach</h3>
-                <p>We believe that the secret to high performance organizations is linkage among functional activities. We also believe that cross-functional linkage and the resulting high performance is science, not art, and can be implemented successfully anywhere by anyone. It's easy to overspend on top talent and create silos of functional excellence. It's much harder to tie day-to-day activities together so that all employees are operating collaboratively. We focus on defining and implementing those key business processes that must seamlessly cross over functional boundaries and help you structure those processes so that your people naturally collaborate and make good business growth decisions.</p>
+	            <img alt="example image" class="vc_left"  src="img/about/our-approach-grid.png">
               </div>
               <div class="col-md-6">
-                <h3>Specializations</h3>
-                <ul class="vc_li">
-                  <li>Lifecycle Management</li>
-                  <li>New Production Introduction</li>
-                  <li>Sales and Inventory Planning</li>
-                  <li>Product & Technology Roadmap</li>
-                  <li>Strategic Account Planning</li>
-                  <li>Go-to-Market</li>
-                  <li>Manufacturing & Supply Chain</li>
-                  <li>Strategic Business Planning</li>
-                  <li>Return, Service, & Repair</li>
-                </ul>
+                <h3>Our Approach</h3>
+                <p>We believe that the secret to high performance organizations is linkage among functional activities. We also believe that cross-functional linkage and the resulting high performance is science, not art, and can be implemented successfully anywhere by anyone. It's easy to overspend on top talent and create silos of functional excellence. It's much harder to tie day-to-day activities together so that all employees are operating collaboratively. We focus on defining and implementing those key business processes that must seamlessly cross over functional boundaries and help you structure those processes so that your people naturally collaborate and make good business growth decisions.</p>
               </div>
             </div>          
           </div>
