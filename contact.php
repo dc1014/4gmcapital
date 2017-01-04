@@ -20,8 +20,7 @@
         <h1>Contact Us</h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> </li>
-          <li><a href="contact.php">Contact</a> </li>
-          <li class="active">Full Map</li>
+          <li class="active">Contact Us</li>
         </ul>
       </div>
     </div>
