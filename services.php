@@ -17,10 +17,10 @@
   <div class="vc_banner-title <?php if (isset($banner_title_bg)) echo $banner_title_bg; ?> block">
     <div class="wrapper">
       <div class="container">
-        <h1>Services <span class="vc_main-color">& Solutions</span></h1>
+        <h1>Services</h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> </li>
-          <li class="active">Services & Solutions</li>          
+          <li class="active">Services</li>          
         </ul>
       </div>
     </div>
