@@ -126,7 +126,8 @@
                   <h4 class="vc_bg-orange"><i class="icon-phone"></i> Call us</h4>
                   <div class="content">
                     <ul class="vc_li">
-                      <li>+1 (214) 621-6762</li>                      
+                      <li>Al Cioffi +1 (214) 334-5774</li>                      
+                      <li>Moe Maghami +1 (214) 621-6762</li>                      
                     </ul>
                   </div>
                 </div>
@@ -134,6 +135,7 @@
                   <h4  class="vc_bg-green"><i class="fa fa-envelope-alt"></i> Email Addresses</h4>
                   <div class="content">
                     <ul class="vc_li">
+                      <li>al@4gmcapital.com</li>
                       <li>moe@4gmcapital.com</li>
                     </ul>
                   </div>
