@@ -22,9 +22,9 @@
           <br>
           <tr>
             <td class="icon"><i class="fa fa-phone"> </i></td>
-            <td> (214) 334-5774 </td>
+            <td><a href="tel:+12143345774">(214) 334-5774</a></td>
             <td class="icon"><i class="fa fa-phone"> </i></td>
-            <td> (214) 621-6762 </td>
+            <td><a href="tel:+2146216752">(214) 621-6762</a></td>
           </tr>
           <tr>
           </tr>

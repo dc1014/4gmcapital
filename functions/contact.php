@@ -5,8 +5,8 @@ require_once('phpmailer/class.phpmailer.php');
 $mail = new PHPMailer();
 
 //recipient data
-$toemail = 'contact@4gmcapital.com'; // Your Email Address
-$toname = 'Website Contact'; // Your Name
+$toemail = $_POST['admin-email']; // Your Email Address
+$toname = $_POST['admin-name']; // Your Name
 
 //sender data
 $name = filter_var($_POST['contact-form-name'], FILTER_SANITIZE_STRING);

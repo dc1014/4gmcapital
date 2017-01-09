@@ -61,8 +61,8 @@
                 An <strong>unexpected error</strong> occured. Please Try Again.</div>
             </div>
             <form id="contact-form" name="contact-form" action="functions/contact.php" method="post">
-              <input type="hidden" value="moe@4gmcapital.com" name="admin-email" id="admin-email">
-              <input type="hidden" value="4GM Capital Group" name="admin-name" id="admin-name">
+              <input type="hidden" value="contact@4gmcapital.com" name="admin-email" id="admin-email">
+              <input type="hidden" value="Website Contact" name="admin-name" id="admin-name">
               <div class="row">
                 <div class="col-md-4">
                   <div class="form-group">
@@ -125,8 +125,8 @@
                   <h4 class="vc_bg-orange"><i class="icon-phone"></i> Call us</h4>
                   <div class="content">
                     <ul class="vc_li">
-                      <li>Al Cioffi +1 (214) 334-5774</li>                      
-                      <li>Moe Maghami +1 (214) 621-6762</li>                      
+                      <li>Al Cioffi <a href="tel:+12143345774">(214) 334-5774</a></li>                      
+                      <li>Moe Maghami <a href="tel:+12146216762">(214) 621-6762</a></li>                      
                     </ul>
                   </div>
                 </div>
@@ -134,8 +134,8 @@
                   <h4  class="vc_bg-green"><i class="fa fa-envelope-alt"></i> Email Addresses</h4>
                   <div class="content">
                     <ul class="vc_li">
-                      <li>al@4gmcapital.com</li>
-                      <li>moe@4gmcapital.com</li>
+                      <li><a href="mailto:al@4gmcapital.com">al@4gmcapital.com</a></li>
+                      <li><a href="mailto:moe@4gmcapital.com">moe@4gmcapital.com</a></li>
                     </ul>
                   </div>
                 </div>                
