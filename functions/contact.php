@@ -5,16 +5,15 @@ require_once('phpmailer/class.phpmailer.php');
 $mail = new PHPMailer();
 
 //recipient data
-$toemail = $_POST['admin-email']; // Your Email Address
-$toname = $_POST['admin-name']; // Your Name
+$toemail = 'contact@4gmcapital.com'; // Your Email Address
+$toname = 'Website Contact'; // Your Name
 
 //sender data
 $name = filter_var($_POST['contact-form-name'], FILTER_SANITIZE_STRING);
 $email = filter_var($_POST['contact-form-email'], FILTER_SANITIZE_EMAIL);
 $phone = filter_var($_POST['contact-form-phone'], FILTER_SANITIZE_STRING);
-$subject = 'Message From Website Contact Form!';
+$subject = 'Message From Website Contact Form';
 $message = filter_var($_POST['contact-form-message'], FILTER_SANITIZE_STRING);
-
 
 if( isset( $_POST['contact-form-submit'] ) ) {
     
@@ -22,7 +21,7 @@ if( isset( $_POST['contact-form-submit'] ) ) {
    
 		$body = "Name: $name <br><br>Email: $email <br><br>Phone: $phone <br><br>Message: $message";
              
-		$mail->SetFrom( $email , $name );    
+		$mail->SetFrom( $email , $name );      
 		$mail->AddReplyTo( $email , $name );            
 		$mail->AddAddress( $toemail , $toname );            
 		$mail->Subject = $subject;            
